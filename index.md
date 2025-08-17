@@ -18,10 +18,24 @@
   margin-right: auto;
   max-width: 700px;
 }
+.manutenzione {
+  font-family: 'Playfair Display', 'Georgia', serif;
+  font-size: 2.7em;
+  color: #cc5500; /* arancione scuro */
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  letter-spacing: 1px;
+}
 </style>
 
 <div class="benvenuto">
   Benvenuti sul nostro sito!
+</div>
+
+<div class="manutenzione">
+  Sito in manutenzione
 </div>
 
 <div class="storica">
