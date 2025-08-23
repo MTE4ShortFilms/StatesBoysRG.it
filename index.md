@@ -48,17 +48,7 @@
   </div>
 
   <div class="storica">
-    <p>
-      La cultura storica è una delle risorse più importanti che abbiamo, e divulgarla è un mestiere nobile da perseverare.
-    </p>
-    <p>
-      Riteniamo che la rievocazione storica sia uno degli strumenti più efficaci per ripercorrere il nostro passato,
-      data la sua natura interattiva ed immersiva.
-    </p>
-    <p>
-      Noi dello States Boys Reenactment Group puntiamo non solo a dare il massimo per l'esperienza degli spettatori,
-      ma anche a rendere accessibile a tutti la pratica della rievocazione.
-    </p>
+    La cultura storica è una delle risorse più importanti che abbiamo, e divulgarla è un mestiere nobile da perseverare. Riteniamo che la rievocazione storica sia uno degli strumenti più efficaci per ripercorrere il nostro passato, data la sua natura interattiva ed immersiva. Noi dello States Boys Reenactment Group puntiamo non solo a dare il massimo per l'esperienza degli spettatori, ma anche a rendere accessibile a tutti la pratica della rievocazione.
   </div>
 
 </body>
