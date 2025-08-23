@@ -35,6 +35,19 @@
       margin-bottom: 1em;
       letter-spacing: 1px;
     }
+    .immagini {
+      display: flex;
+      justify-content: center; /* centra le immagini in orizzontale */
+      gap: 20px; /* spazio tra le immagini */
+      margin-top: 2em;
+      flex-wrap: wrap; /* permette di andare a capo su schermi piccoli */
+    }
+    .immagini img {
+      width: 200px; /* larghezza fissa */
+      height: auto; /* mantiene le proporzioni */
+      border-radius: 10px; /* angoli arrotondati */
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* ombra */
+    }
   </style>
 </head>
 <body>
@@ -49,6 +62,12 @@
 
   <div class="storica">
     La cultura storica è una delle risorse più importanti che abbiamo, e divulgarla è un mestiere nobile da perseverare. Riteniamo che la rievocazione storica sia uno degli strumenti più efficaci per ripercorrere il nostro passato, data la sua natura interattiva ed immersiva. Noi dello States Boys Reenactment Group puntiamo non solo a dare il massimo per l'esperienza degli spettatori, ma anche a rendere accessibile a tutti la pratica della rievocazione.
+  </div>
+
+  <div class="immagini">
+    <img src="img1.jpg" alt="Immagine 1">
+    <img src="img2.jpg" alt="Immagine 2">
+    <img src="img3.jpg" alt="Immagine 3">
   </div>
 
 </body>
