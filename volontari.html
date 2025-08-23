@@ -54,11 +54,10 @@
       color: #2d2a29;
       font-weight: bold;
     }
-    .link-home {
+    .link-home, .link-regolamento {
       display: block;
       text-align: center;
-      margin-top: 2em;
-      margin-bottom: 3em;
+      margin: 1em auto;
       font-family: 'Playfair Display', 'Georgia', serif;
       font-size: 1.6em;
       text-decoration: none;
@@ -66,9 +65,10 @@
       border: 2px solid #2d2a29;
       padding: 10px 25px;
       border-radius: 10px;
+      width: fit-content;
       transition: all 0.3s ease;
     }
-    .link-home:hover {
+    .link-home:hover, .link-regolamento:hover {
       background-color: #2d2a29;
       color: white;
     }
@@ -107,6 +107,9 @@
     <div class="paragrafo">
       Prima di tutto è essenziale prendere visione del regolamento completo, disponibile cliccando qui sotto:
     </div>
+
+    <!-- Pulsante per la pagina regolamento -->
+    <a href="regolamento.html" class="link-regolamento">Visualizza Regolamento</a>
 
     <!-- Pulsante per tornare alla home -->
     <a href="index.html" class="link-home">⬅ Torna alla Home</a>
