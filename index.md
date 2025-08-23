@@ -90,5 +90,21 @@
     Ricordare il passato è essenziale per imparare dai nostri errori. Proprio in virtù del nostro approccio accademico alla rievocazione, non possiamo evitare di assumere un approccio antifascista e pacifista. Rievocare guerre passate non significa elogiare il conflitto, ma comprenderne le dinamiche e trarne insegnamento.
   </div>
 
+  <!-- Pulsante per la sezione volontari -->
+  <div style="text-align: center; margin-top: 3em; margin-bottom: 3em;">
+    <a href="volontari.html" 
+       style="font-family: 'Playfair Display', 'Georgia', serif;
+              font-size: 2em;
+              background-color: #2d2a29;
+              color: white;
+              padding: 15px 30px;
+              border-radius: 12px;
+              text-decoration: none;
+              box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+              transition: background-color 0.3s ease;">
+       Proporsi volontari
+    </a>
+  </div>
+
 </body>
 </html>
